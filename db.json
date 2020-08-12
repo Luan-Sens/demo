@@ -1,33 +1,11 @@
 {
-  		"name": "Administrador",
-  		"users": [{
-  				"id": "aewaesaeae",
-  				"fullName": "Luan"
-  			},
-  			{
-  				"id": "saszwsw",
-  				"fullName": "Cris"
-  			},
-  			{
-  				"id": "bgbgbgbgb",
-  				"fullName": "Jao"
-  			}
-  		]
-  	},
-  	{
-  		"name": "Usuário",
-  		"users": [{
-  				"id": "aewaesaeae",
-  				"fullName": "Luan"
-  			},
-  			{
-  				"id": "saszwsw",
-  				"fullName": "Cris"
-  			},
-  			{
-  				"id": "bgbgbgbgb",
-  				"fullName": "Jao"
-  			}
-  		]
-  	}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
