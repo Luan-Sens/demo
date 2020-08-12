@@ -1,27 +1,49 @@
 {
-  "profiles": [
-    {
-            "name": "Administrador",
-            "users": [
-                { "id": "aewaesaeae", "fullName": "Luan" },
-                { "id": "saszwsw", "fullName": "Cris" },
-                { "id": "bgbgbgbgb", "fullName": "Jao" }
-            ]
-        },
-        {
-            "name": "Administrador",
-            "users": [
-                { "id": "aewaesaeae", "fullName": "Luan" },
-                { "id": "saszwsw", "fullName": "Cris" },
-                { "id": "bgbgbgbgb", "fullName": "Jao" }
-            ]
-        }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"profiles": [{
+			"name": "Administrador",
+			"users": [{
+					"id": "aewaesaeae",
+					"fullName": "Luan"
+				},
+				{
+					"id": "saszwsw",
+					"fullName": "Cris"
+				},
+				{
+					"id": "bgbgbgbgb",
+					"fullName": "Jao"
+				}
+			]
+		},
+		{
+			"name": "Administrador",
+			"users": [{
+					"id": "aewaesaeae",
+					"fullName": "Luan"
+				},
+				{
+					"id": "saszwsw",
+					"fullName": "Cris"
+				},
+				{
+					"id": "bgbgbgbgb",
+					"fullName": "Jao"
+				}
+			]
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
