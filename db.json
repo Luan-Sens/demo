@@ -1,37 +1,31 @@
 {
-	"profs": [{
-			"name": "Administrador",
-			"users": [{
-					"id": "aewaesaeae",
-					"fullName": "Luan"
-				},
-				{
-					"id": "saszwsw",
-					"fullName": "Cris"
-				},
-				{
-					"id": "bgbgbgbgb",
-					"fullName": "Jao"
-				}
-			]
-		},
-		{
-			"name": "Administrador",
-			"users": [{
-					"id": "aewaesaeae",
-					"fullName": "Luan"
-				},
-				{
-					"id": "saszwsw",
-					"fullName": "Cris"
-				},
-				{
-					"id": "bgbgbgbgb",
-					"fullName": "Jao"
-				}
-			]
-		}
-	],
+	"profs": [
+    {
+        "id": 1,
+        "name": "Administrators",
+        "managingPlugg": true,
+        "createAnalyseAndCollection": true,
+        "managingAccess": true,
+        "managingAccount": true,
+        "isSystemDefault": true,
+        "users": [
+            {
+                "id": "51cc4e3d-ed48-448e-bb8a-86acb0fd33e1",
+                "fullName": "Luan Sensolo"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "outros update",
+        "managingPlugg": true,
+        "createAnalyseAndCollection": false,
+        "managingAccess": true,
+        "managingAccount": false,
+        "isSystemDefault": false,
+        "users": []
+    }
+],
 	"comments": [{
 			"id": 1,
 			"body": "some comment",
