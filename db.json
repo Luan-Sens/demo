@@ -13,5 +13,22 @@
 	],
 	"profile": {
 		"name": "typicode"
-	}
+	},
+	"dt":[
+		{
+			"product_name": "Banana",
+			"total_product": 83.59,
+			"status": "Sealed"
+		},
+		{
+			"product_name": "Potato",
+			"total_product": 83.59,
+			"status": "Sealed"
+		},
+		{
+			"product_name": "Cucumber",
+			"total_product": 83.59,
+			"status": "Sealed"
+		}
+	]
 }
